@@ -55,7 +55,7 @@ The repository contains the following files and folders:
 
 ## Dashboard
 
-* **Link:** [Games Analysis - July 2023 - Backloggd.com](https://public.tableau.com/views/GamesAnalysis-July2023-Backloggd_com/Games-Dashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+* **Link:** [Games Analysis - July 2023 - Backloggd.com](https://public.tableau.com/views/GamesAnalysis-July2023-Backloggd_com/Games-Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Instructions to Run the Project
 Clone this repository to your local machine.
