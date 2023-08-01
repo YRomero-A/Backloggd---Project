@@ -15,15 +15,15 @@ Dashboard Creation: Two interactive dashboards are developed to provide insights
 ## Objective
 The primary objectives of this data analysis project are as follows:
 
-  +Identify and visualize the top games based on various metrics such as ratings, total plays, current players, and popularity in users' wishlists.
+  + Identify and visualize the top games based on various metrics such as ratings, total plays, current players, and popularity in users' wishlists.
 
-  +Analyze the top producing teams associated with the games and investigate their average ratings.
+  + Analyze the top producing teams associated with the games and investigate their average ratings.
 
-  +Determine the most common gaming consoles used to play these games.
+  + Determine the most common gaming consoles used to play these games.
 
-  +Calculate the minimum, maximum, and average ratings of games for each gaming console.
+  + Calculate the minimum, maximum, and average ratings of games for each gaming console.
 
-  +Rank the top 10 genres based on their average ratings.
+  + Rank the top 10 genres based on their average ratings.
 
 Data Source - [Backloggd](https://www.backloggd.com/)
 Backloggd is a popular website where gamers can track, rate, and manage their gaming experiences. It contains extensive data on various games, including user ratings, playtime, platform information, and genres. The first 300 pages in their library of games, with the filter popularity, were used at the time of the data scraping (July, 2023).
