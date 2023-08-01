@@ -25,7 +25,7 @@ The primary objectives of this data analysis project are as follows:
 
 + Rank the top 10 genres based on their average ratings.
 
-Data Source - [Backloggd](https://www.backloggd.com/)
+## Data Source - [Backloggd](https://www.backloggd.com/)
 Backloggd is a popular website where gamers can track, rate, and manage their gaming experiences. It contains extensive data on various games, including user ratings, playtime, platform information, and genres. The first 300 pages in their library of games, with the filter popularity, were used at the time of the data scraping (July, 2023).
 
 ## Tools and Technologies Used
@@ -43,7 +43,7 @@ The following tools and technologies are employed in this end-to-end data analys
 
 * **Tableau:** Tableau is a leading data visualization tool used for data analysis and business intelligence. 
 
-Repository Structure
+## Repository Structure
 
 The repository contains the following files and folders:
 
@@ -53,8 +53,11 @@ The repository contains the following files and folders:
 
 * README.md: This document provides an overview of the project, its objectives, data sources and tools used.
 
+## Dashboard
 
-Instructions to Run the Project
+* **Link:** [Games Analysis - July 2023 - Backloggd.com](https://public.tableau.com/views/GamesAnalysis-July2023-Backloggd_com/Games-Dashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+## Instructions to Run the Project
 Clone this repository to your local machine.
 
 * Install the required libraries and dependencies listed in requirements.txt using the command: pip install -r requirements.txt.
@@ -66,8 +69,6 @@ Clone this repository to your local machine.
 * Import the csv.files into SQL Server Management Studio, the name of the teams, consoles, and genres were changed after the sql upload to make them more understandable and easy to query.
 
 * Run the SQL-Queries-Backloggd.sql script file to see the different queries done in the project.
-
-* Download the Blackloggd Project - Dashboards.twbx and run it on Tableau website or desktop to see the final visualizations.
 
 * Follow the dashboard link to see the dashboard created, keep in mind the data is static, and your results due to a different timeframe will vary with the resulst found here.
 * Interact with the dashboards to explore the gaming data and gain insights based on the provided objectives.
