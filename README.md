@@ -31,17 +31,17 @@ Backloggd is a popular website where gamers can track, rate, and manage their ga
 ## Tools and Technologies Used
 The following tools and technologies are employed in this end-to-end data analysis project:
 
-Python: Python programming language is used for web scraping, data cleaning, and data processing tasks.
+* Python: Python programming language is used for web scraping, data cleaning, and data processing tasks.
 
-Beautiful Soup and Requests: These Python libraries are utilized for web scraping and extracting data from the Backloggd website.
+* Beautiful Soup and Requests: These Python libraries are utilized for web scraping and extracting data from the Backloggd website.
 
-Pandas: The Pandas library is employed for data manipulation and cleaning.
+* Pandas: The Pandas library is employed for data manipulation and cleaning.
 
-SQL Server Management Studio: SQL Server Management Studio is used as the database management system to store and query certain datasets.
+* SQL Server Management Studio: SQL Server Management Studio is used as the database management system to store and query certain datasets.
 
-SQL: Structured Query Language (SQL) is used to perform database queries.
+* SQL: Structured Query Language (SQL) is used to perform database queries.
 
-Tableau: Tableau is a leading data visualization tool used for data analysis and business intelligence. 
+* Tableau: Tableau is a leading data visualization tool used for data analysis and business intelligence. 
 
 Repository Structure
 The repository contains the following files and folders:
