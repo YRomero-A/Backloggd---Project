@@ -1,10 +1,10 @@
-# PROJECT BACKLOGGD ANALYSIS
-## Backloggd Data Analysis Project
+# Videogames Based on Popular Opinion
+## Data Analysis Project
 ### Overview
 
 This data analysis project aims to explore and visualize gaming data from the website Backloggd. The project includes the following steps:
 
-Data Scraping: Data is scraped from the [Backloggd](https://www.backloggd.com/) website to obtain information about various games, including their ratings, total plays, current players, wishlist from their users, among other data.
+Data Scraping: Data is scraped from the [Backloggd](https://www.backloggd.com/) website to obtain information about various games, including their ratings, total plays, current players, wishlist from their users, among other data. The library which was scraped comes from the following link [Backloggd - Games](https://www.backloggd.com/games/lib/popular/) library.
 
 Data Cleaning: The scraped data is processed and cleaned using Python to ensure it is in a suitable format for analysis.
 
@@ -15,18 +15,18 @@ Dashboard Creation: Two interactive dashboards are developed to provide insights
 ## Objective
 The primary objectives of this data analysis project are as follows:
 
-  Identify and visualize the top games based on various metrics such as ratings, total plays, current players, and popularity in users' wishlists.
+  +Identify and visualize the top games based on various metrics such as ratings, total plays, current players, and popularity in users' wishlists.
 
-  Analyze the top producing teams associated with the games and investigate their average ratings.
+  +Analyze the top producing teams associated with the games and investigate their average ratings.
 
-  Determine the most common gaming consoles used to play these games.
+  +Determine the most common gaming consoles used to play these games.
 
-  Calculate the minimum, maximum, and average ratings of games for each gaming console.
+  +Calculate the minimum, maximum, and average ratings of games for each gaming console.
 
-  Rank the top 10 genres based on their average ratings.
+  +Rank the top 10 genres based on their average ratings.
 
 Data Source - [Backloggd](https://www.backloggd.com/)
-Backloggd is a popular website where gamers can track, rate, and manage their gaming experiences. It contains extensive data on various games, including user ratings, playtime, platform information, and genres. The first 300 pages in their library of games were used at the time of the data scraping (June - July, 2023).
+Backloggd is a popular website where gamers can track, rate, and manage their gaming experiences. It contains extensive data on various games, including user ratings, playtime, platform information, and genres. The first 300 pages in their library of games, with the filter popularity, were used at the time of the data scraping (July, 2023).
 
 ## Tools and Technologies Used
 The following tools and technologies are employed in this end-to-end data analysis project:
